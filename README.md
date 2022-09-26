@@ -8,8 +8,8 @@
 
 Projeto construido no programa explorer na Rocketseat
 
-👉🏼[Clique aqui para accessar]([https://jose26362780.github.io/Projeto-05/](https://jose26362780.github.io/Maratona-Explorer-2.0/)
-👉🏼[Clique aqui para accessar]([https://projeto-05.netlify.app/](https://maratona-2-0-explorer.netlify.app/)
+👉🏼[Clique aqui para accessar]([https://jose26362780.github.io/Projeto-05/](https://jose26362780.github.io/Maratona-Explorer-2.0/))
+👉🏼[Clique aqui para accessar]([https://projeto-05.netlify.app/](https://maratona-2-0-explorer.netlify.app/))
 
 
 
