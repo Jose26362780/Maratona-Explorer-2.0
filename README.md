@@ -1,7 +1,7 @@
 # Maratona-Explorer-2.0
 
 
-![preview](./.github/maratona%20explorer%202.0.png)
+![preview](./maratona%20explorer%202.0.png)
 
 
 > Trilha Explorer 
